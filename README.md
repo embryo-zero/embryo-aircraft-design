@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Aircraft Design
+
+**Embryo Aircraft Design** is Embryo-Zero's fork of [AeroSandbox](https://github.com/peterdsharpe/AeroSandbox), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # [AeroSandbox](https://peterdsharpe.github.io/AeroSandbox/) :airplane:
 
 by [Peter Sharpe](https://peterdsharpe.github.io) (<pds [at] mit [dot] edu>)
